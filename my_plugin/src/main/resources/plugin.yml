@@ -1,0 +1,5 @@
+## ไว้กำหนดเวอร์ชั่นกำกับเชยๆเท่าไหร่ก็ได้ เช่น version pl และ API version ของตัวเกม
+name: MyPluginAFK
+version: 1.0
+main: io.papermc.testplugin.ExamplePlugin
+api-version: 1.20
